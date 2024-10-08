@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7ef959068fe63f8d",
+        "id": "92cfc214244c958c",
         "type": "tabs",
         "children": [
           {
-            "id": "c33fd78d1a5daeb4",
+            "id": "7dfecb38cac240e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Notes/Perspektive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26ea2839f0b086ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Wahrnehmungsschwelle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f574691f2bc1a87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bild.md",
+                "file": "Fleeting Notes/Grundlagen-CuB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bild.md",
+                "file": "Fleeting Notes/Grundlagen-CuB.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bild.md",
+                "file": "Fleeting Notes/Grundlagen-CuB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bild.md"
+                "file": "Fleeting Notes/Grundlagen-CuB.md"
               }
             }
           }
@@ -173,17 +148,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08b1f0c283551a18",
+  "active": "7dfecb38cac240e0",
   "lastOpenFiles": [
-    "Fleeting Notes/Wahrnehmungsschwelle.md",
+    "Binärbild.md",
     "Bild.md",
-    "Fleeting Notes/Perspektive.md",
-    "Fleeting Notes/Unterteilung-der-Bildarten.md",
-    "Fleeting Notes/Rasterung.md",
-    "Fleeting Notes/Quantisierung.md",
-    "Fleeting Notes/Grundlagen-CuB.md",
-    "Fleeting Notes/Bild-als-Funktion.md",
     "README.md",
+    "Fleeting Notes/Wahrnehmungsschwelle.md",
+    "Fleeting Notes/Perspektive.md",
+    "Untitled.md",
+    "Fleeting Notes/Grundlagen-CuB.md",
+    "Fleeting Notes/Unterteilung-der-Bildarten.md",
+    "Fleeting Notes/Quantisierung.md",
+    "Fleeting Notes/Rasterung.md",
+    "Fleeting Notes/Bild-als-Funktion.md",
     "MOC/MOC-Computergrafik-und-Bildbearbeitung.md",
     "MOC/MOC-Embedded-Computing.md",
     "Permanent Notes/Digitalisierung-und-Abtasttheorem.md",
@@ -199,8 +176,6 @@
     "Fleeting Notes/main-funktion-muss-in-main-package-sein.md",
     "Fleeting Notes/atomare-files-für-funktionen.md",
     "MOC/MOC-Verteilte-Softwaresysteme.md",
-    "Untitled 1.md",
-    "2024-10-07.md",
     "Permanent Notes",
     "Literature Notes",
     "Fleeting Notes",
