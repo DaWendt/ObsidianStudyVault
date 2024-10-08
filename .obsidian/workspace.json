@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "7cd4262c6a38265a",
+    "type": "split",
+    "children": [
+      {
+        "id": "92cfc214244c958c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dfecb38cac240e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Grundlagen-CuB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fe4d4aed51ae1ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a81d527d33468af",
+    "type": "split",
+    "children": [
+      {
+        "id": "4af4e5f9f816fc25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b1f0c283551a18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f977e87ca937375b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bcc0cef4e1eb91b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d747b548363867b",
+    "type": "split",
+    "children": [
+      {
+        "id": "054c96e82ff49d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "328182a7b7547548",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe6c3e55f0482a84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fb8437a8d6f3701",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "99fb598e89e14ad4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6fe4d4aed51ae1ce",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "Fleeting Notes/Grundlagen-CuB.md",
+    "Fleeting Notes/Unterteilung-der-Bildarten.md",
+    "Fleeting Notes/Quantisierung.md",
+    "Fleeting Notes/Rasterung.md",
+    "Fleeting Notes/Bild-als-Funktion.md",
+    "MOC/MOC-Computergrafik-und-Bildbearbeitung.md",
+    "MOC/MOC-Embedded-Computing.md",
+    "Permanent Notes/Digitalisierung-und-Abtasttheorem.md",
+    "Permanent Notes/Texture-Mapping.md",
+    "Permanent Notes/Die-Rendering-Pipeline.md",
+    "Permanent Notes/Go.md",
+    "Permanent Notes/Eigenschaften von Go.md",
+    "Permanent Notes/Slices.md",
+    "Permanent Notes/package-fmt.md",
+    "Permanent Notes/Methoden-in-go.md",
+    "Permanent Notes/Testen-in-go.md",
+    "Fleeting Notes/package-deklariert-ort-in-gocode.md",
+    "Fleeting Notes/main-funktion-muss-in-main-package-sein.md",
+    "Fleeting Notes/atomare-files-für-funktionen.md",
+    "MOC/MOC-Verteilte-Softwaresysteme.md",
+    "Untitled 1.md",
+    "2024-10-07.md",
+    "MOC/MOC-Semester-5.md",
+    "MOC/MOC-Studium.md",
+    "Permanent Notes",
+    "Literature Notes",
+    "Fleeting Notes",
+    "Untitled.canvas",
+    "Templates",
+    "MOC"
+  ]
+}

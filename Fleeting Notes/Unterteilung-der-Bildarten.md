@@ -1,0 +1,1 @@
+In Binär, Grauwert und Farbbilder
