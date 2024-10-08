@@ -5,18 +5,16 @@
     "children": [
       {
         "id": "92cfc214244c958c",
+        "id": "82c503bdb81ff7d5",
         "type": "tabs",
         "children": [
           {
             "id": "7dfecb38cac240e0",
+            "id": "322c413c70bd4aca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Grundlagen-CuB.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "moc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Grundlagen-CuB.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Notes/Grundlagen-CuB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +120,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fleeting Notes/Grundlagen-CuB.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,19 +142,28 @@
     }
   },
   "active": "7dfecb38cac240e0",
+  "active": "322c413c70bd4aca",
   "lastOpenFiles": [
-    "Binärbild.md",
-    "Bild.md",
-    "README.md",
-    "Fleeting Notes/Wahrnehmungsschwelle.md",
-    "Fleeting Notes/Perspektive.md",
-    "Untitled.md",
-    "Fleeting Notes/Grundlagen-CuB.md",
-    "Fleeting Notes/Unterteilung-der-Bildarten.md",
+    "Permanent Notes/Bild.md",
+    "Fleeting Notes/Rasterung.md",
+    "Permanent Notes/Unterteilung-der-Bildarten.md",
+    "Permanent Notes/Grundlagen-CuB.md",
+    "MOC/MOC-Computergrafik-und-Bildbearbeitung.md",
+    "Fleeting Notes/Histogramm.md",
+    "Fleeting Notes/Statistische-Merkmale.md",
     "Fleeting Notes/Quantisierung.md",
     "Fleeting Notes/Rasterung.md",
+    "Permanent Notes/Perspektive.md",
+    "Permanent Notes/Grauwertmenge.md",
+    "Fleeting Notes/Grauwertbild.md",
+    "Fleeting Notes/Farbbild.md",
+    "Fleeting Notes/Binärbild.md",
+    "Fleeting Notes/Bildmatrix.md",
+    "2024-10-08.md",
+    "Permanent Notes/Wahrnehmungsschwelle.md",
     "Fleeting Notes/Bild-als-Funktion.md",
     "MOC/MOC-Computergrafik-und-Bildbearbeitung.md",
+    "README.md",
     "MOC/MOC-Embedded-Computing.md",
     "Permanent Notes/Digitalisierung-und-Abtasttheorem.md",
     "Permanent Notes/Texture-Mapping.md",
