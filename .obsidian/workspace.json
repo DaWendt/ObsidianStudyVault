@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7ef959068fe63f8d",
+        "id": "82c503bdb81ff7d5",
         "type": "tabs",
         "children": [
           {
-            "id": "c33fd78d1a5daeb4",
+            "id": "322c413c70bd4aca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Perspektive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26ea2839f0b086ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Wahrnehmungsschwelle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f574691f2bc1a87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bild.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "moc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bild.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,13 +118,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bild.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,18 +139,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08b1f0c283551a18",
+  "active": "322c413c70bd4aca",
   "lastOpenFiles": [
-    "Fleeting Notes/Wahrnehmungsschwelle.md",
-    "Bild.md",
-    "Fleeting Notes/Perspektive.md",
-    "Fleeting Notes/Unterteilung-der-Bildarten.md",
+    "Permanent Notes/Bild.md",
     "Fleeting Notes/Rasterung.md",
+    "Permanent Notes/Unterteilung-der-Bildarten.md",
+    "Permanent Notes/Grundlagen-CuB.md",
+    "MOC/MOC-Computergrafik-und-Bildbearbeitung.md",
+    "Fleeting Notes/Histogramm.md",
+    "Fleeting Notes/Statistische-Merkmale.md",
     "Fleeting Notes/Quantisierung.md",
-    "Fleeting Notes/Grundlagen-CuB.md",
+    "Permanent Notes/Perspektive.md",
+    "Permanent Notes/Grauwertmenge.md",
+    "Fleeting Notes/Grauwertbild.md",
+    "Fleeting Notes/Farbbild.md",
+    "Fleeting Notes/Binärbild.md",
+    "Fleeting Notes/Bildmatrix.md",
+    "2024-10-08.md",
+    "Permanent Notes/Wahrnehmungsschwelle.md",
     "Fleeting Notes/Bild-als-Funktion.md",
     "README.md",
-    "MOC/MOC-Computergrafik-und-Bildbearbeitung.md",
     "MOC/MOC-Embedded-Computing.md",
     "Permanent Notes/Digitalisierung-und-Abtasttheorem.md",
     "Permanent Notes/Texture-Mapping.md",
@@ -193,14 +167,6 @@
     "Permanent Notes/Eigenschaften von Go.md",
     "Permanent Notes/Slices.md",
     "Permanent Notes/package-fmt.md",
-    "Permanent Notes/Methoden-in-go.md",
-    "Permanent Notes/Testen-in-go.md",
-    "Fleeting Notes/package-deklariert-ort-in-gocode.md",
-    "Fleeting Notes/main-funktion-muss-in-main-package-sein.md",
-    "Fleeting Notes/atomare-files-für-funktionen.md",
-    "MOC/MOC-Verteilte-Softwaresysteme.md",
-    "Untitled 1.md",
-    "2024-10-07.md",
     "Permanent Notes",
     "Literature Notes",
     "Fleeting Notes",
