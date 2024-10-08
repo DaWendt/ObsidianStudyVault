@@ -4,16 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "92cfc214244c958c",
-        "id": "82c503bdb81ff7d5",
+        "id": "c63814fc78c8ccdd",
         "type": "tabs",
         "children": [
           {
-            "id": "7dfecb38cac240e0",
-            "id": "322c413c70bd4aca",
+            "id": "0531a5872638f304",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -46,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -141,43 +140,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7dfecb38cac240e0",
-  "active": "322c413c70bd4aca",
+  "active": "0531a5872638f304",
   "lastOpenFiles": [
-    "Permanent Notes/Bild.md",
-    "Fleeting Notes/Rasterung.md",
-    "Permanent Notes/Unterteilung-der-Bildarten.md",
-    "Permanent Notes/Grundlagen-CuB.md",
-    "MOC/MOC-Computergrafik-und-Bildbearbeitung.md",
     "Fleeting Notes/Histogramm.md",
     "Fleeting Notes/Statistische-Merkmale.md",
-    "Fleeting Notes/Quantisierung.md",
-    "Fleeting Notes/Rasterung.md",
+    "MOC/MOC-Computergrafik-und-Bildbearbeitung.md",
+    "Permanent Notes/Wahrnehmungsschwelle.md",
+    "Permanent Notes/Unterteilung-der-Bildarten.md",
     "Permanent Notes/Perspektive.md",
+    "Permanent Notes/Grundlagen-CuB.md",
     "Permanent Notes/Grauwertmenge.md",
+    "Permanent Notes/Bild.md",
     "Fleeting Notes/Grauwertbild.md",
     "Fleeting Notes/Farbbild.md",
     "Fleeting Notes/Binärbild.md",
     "Fleeting Notes/Bildmatrix.md",
-    "2024-10-08.md",
-    "Permanent Notes/Wahrnehmungsschwelle.md",
-    "Fleeting Notes/Bild-als-Funktion.md",
-    "MOC/MOC-Computergrafik-und-Bildbearbeitung.md",
+    "Fleeting Notes/Grundlagen-CuB.md",
+    "Binärbild.md",
+    "Bild.md",
     "README.md",
+    "Fleeting Notes/Wahrnehmungsschwelle.md",
+    "Fleeting Notes/Perspektive.md",
+    "Untitled.md",
+    "Fleeting Notes/Unterteilung-der-Bildarten.md",
+    "Fleeting Notes/Quantisierung.md",
+    "Fleeting Notes/Rasterung.md",
+    "Fleeting Notes/Bild-als-Funktion.md",
     "MOC/MOC-Embedded-Computing.md",
     "Permanent Notes/Digitalisierung-und-Abtasttheorem.md",
-    "Permanent Notes/Texture-Mapping.md",
-    "Permanent Notes/Die-Rendering-Pipeline.md",
-    "Permanent Notes/Go.md",
-    "Permanent Notes/Eigenschaften von Go.md",
-    "Permanent Notes/Slices.md",
-    "Permanent Notes/package-fmt.md",
-    "Permanent Notes/Methoden-in-go.md",
-    "Permanent Notes/Testen-in-go.md",
-    "Fleeting Notes/package-deklariert-ort-in-gocode.md",
-    "Fleeting Notes/main-funktion-muss-in-main-package-sein.md",
-    "Fleeting Notes/atomare-files-für-funktionen.md",
-    "MOC/MOC-Verteilte-Softwaresysteme.md",
     "Permanent Notes",
     "Literature Notes",
     "Fleeting Notes",
