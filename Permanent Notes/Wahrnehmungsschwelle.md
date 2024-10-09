@@ -6,3 +6,5 @@ Beispiel für Framerates, gemessen in Bildern die Sekunde:
 --> mindestens 20 Frames/s
 
 Gängige Kinoframerate: ca. 24 Frames/s
+
+#CuB 

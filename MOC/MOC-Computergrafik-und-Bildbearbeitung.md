@@ -19,3 +19,6 @@ Bildbearbeitung:
 - [[Filter-im-Orts-und-Frequenzbereich]]
 - [[Merkmalsextraktion]]
 - [[Bildsegmentierung-und-Klassifikation]]
+
+
+#CuB

@@ -2,3 +2,5 @@
 
 Nehmen wir mal an ich habe ein Bild, welches Pro Pixel 24 Bit zur Verfügung hat. Das sind insgesamt 2^24 Farben, ungefähr 16 Millionen.
 Wenn ich die Bit nun auf 8 reduziere, habe ich nur noch 256 Farben, was im Quantisierten Bild sich in Form von Artefakten zeigt.
+
+#CuB 

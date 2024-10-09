@@ -15,3 +15,5 @@ s(x,y,n) = g gEG
 Hier nehmen wir wie oben genannt das gleiche Tupel, fügen dem aber noch einen Part t hinzu der auch die Position in der Sequenz beschreibt.
 
 s(x,y,n,t) = g gEG
+
+#CuB 

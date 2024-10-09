@@ -8,3 +8,4 @@ Letzteres könnte verwendet werden um die Durchschnittshelligkeit pro Kanal zu f
 Sollte ich noch einen Schritt weiter gehen und die relative Häufigkeit der jeweiligen Helligkeiten erkennen, so ende ich mit einem [[Histogramm]]
 
 #orphan
+#CuB 

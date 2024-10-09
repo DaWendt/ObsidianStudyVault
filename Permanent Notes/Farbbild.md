@@ -2,3 +2,5 @@ Ein Bild, wobei M 3 Werte hat welche den Rot-, Grün- und Blauanteil (kurz RGB) 
 
 [[Grauwertmenge]] G
 Dimension N
+
+#CuB 

@@ -12,5 +12,6 @@ Damit wir das Bild ins digitale übersetzen können müssen wir es diskretisiere
 
 Das Resultat beider Verfahren ist eine [[Bildmatrix]].
 
+#CuB 
 
 
