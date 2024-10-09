@@ -1,9 +1,6 @@
 Ein gerastertes [[Bild]] s kann man als eine Matrix S mit L Zeilen und R Spalten darstellen.
 
 Jeder Eintrag hält einen N-Dimensionalen Farbwert g und lässt sich über ein Koordinatentupel referenzieren.
-
-#todo Füge Grafik aus digitales_Bild Folie 11 ein
-
 ### Notation für einzelne Bilder
 
 Wenn N größer als 1 ist, sollten wir in der Lage sein den richtigen Farbkanal auch über das Koordinatentupel anzusteuern.

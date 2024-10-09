@@ -1,7 +1,4 @@
 Das Histogramm stellt visuell die relative Häufigkeit der Helligkeiten eines bestimmten Kanals dar.
-
-#todo Füge Grafik aus statistische_Merkmale Folie 7 ein
-
 #### Hier gilt: N = 1 [[Grauwertbild]]
 
 Das ermöglicht es mir bestimmte Trends festzustellen und Aussagen über das Bild zu treffen.
@@ -17,7 +14,6 @@ Hier bieten sich 2 Optionen an:
 Selbsterklärend.
 ##### 2D Histogramme für Kanalkombis
 
-#todo Füge Grafik aus statistische_Merkmale Folie 12 ein
 
 
 
