@@ -16,3 +16,5 @@ func Reverse(s string) string {
 --> Arrays werden "Slice" genannt
 --> Swap: i,j = j,i
 	--> berechnet zuerst rechte Seite und weist es dann auf die linke zu
+
+#Ver-Sys 

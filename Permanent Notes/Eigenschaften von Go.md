@@ -25,4 +25,7 @@ Eine repräsentative Sicht auf Arrays.
 ## Syntax
 - im Allgemeinen deklariert man zuerst den Namen, dann den Typ. Dies gilt auch für [[Methoden-in-go]].
 ## Testen
+
 [[Testen-in-go]] ist relativ leicht und wird mit dem Befehl go test <Verzeichnis> realisiert.
+
+#Ver-Sys 
