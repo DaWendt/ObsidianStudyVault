@@ -1,1 +1,0 @@
-[[Unterteilung-der-Bildarten]]
