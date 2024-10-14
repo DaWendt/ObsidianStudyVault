@@ -5,7 +5,7 @@ Jeder Eintrag hält einen N-Dimensionalen Farbwert g und lässt sich über ein K
 
 Wenn N größer als 1 ist, sollten wir in der Lage sein den richtigen Farbkanal auch über das Koordinatentupel anzusteuern.
 
-s: N^M+1 -> N #todo Matheformeln korrekt darstellen
+s: N^M+1 -> N #todo  Matheformeln korrekt darstellen
 
 Damit lassen sich für M = 2, N Kanäle folgendermaßen referenzieren: 
 
