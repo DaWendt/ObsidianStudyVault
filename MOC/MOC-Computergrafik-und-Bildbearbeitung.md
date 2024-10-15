@@ -9,6 +9,7 @@ Computergrafik Folien:
 - [[Grundlagen-CuB]]
 - [[Statistische-Merkmale]]
 - [[Punktoperationen]]
+- [[Lineare-Filter]]
 - 
 
 

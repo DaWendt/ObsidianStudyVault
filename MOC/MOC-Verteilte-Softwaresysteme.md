@@ -1,4 +1,4 @@
-Actors
+[[Actor]]
 Microservices
 Containervirtualisierung
 Verteilte Algorithmen 

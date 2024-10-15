@@ -7,5 +7,18 @@ Ersteres kann ich beispielsweise verwenden um pro Farbkanal die Variation, also 
 Letzteres könnte verwendet werden um die Durchschnittshelligkeit pro Kanal zu finden.
 Sollte ich noch einen Schritt weiter gehen und die relative Häufigkeit der jeweiligen Helligkeiten erkennen, so ende ich mit einem [[Histogramm]]
 
-#orphan
+#### Entropie
+
+Die [[Entropie]] gibt uns Auskunft über die Zufälligkeit, Berechenbarkeit und Redundanz eines Bildes.
+
+#### Kovarianzmatrix
+
+Funktioniert dank dem zugrundeliegenden Prinzip der [[Kovarianz]]. Damit kann nicht linear abhängige Kanäle finden und die dann für die Weiterverarbeitung verwenden.
+
+#### Co-Occurence-Matrix
+
+Hiermit kann ich die Vorkommnisse von bestimmten Farbkombis bestimmen. Eine [[Co-Occurence-Matrix]] kann ich nutzen um Bildbereiche zu definieren.
+
+
+#reformat
 #CuB 
